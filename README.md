@@ -1,3 +1,11 @@
+# Create app
+
+npx create-react-app react-hooks
+npm i axios
+
+# UseState
+
+Permite manejar el estado
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
